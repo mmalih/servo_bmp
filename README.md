@@ -20,3 +20,4 @@ Le but du projet est de simuler l'ouverture d'une porte lorsqu'une pièce attend
 - Utilisation de librairie <Adafruit_Sensor.h>
 
 # Montage : 
+20180418_124834.jpg
